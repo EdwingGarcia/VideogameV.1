@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|c:\\users\\nicko\\desktop\\6to\\videojuegos\\3dproject\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|c:\\users\\nicko\\desktop\\6to\\videojuegos\\3dproject\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|c:\\users\\nicko\\desktop\\6to\\videojuegos\\3dproject\\assets\\scripts\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMPro_Private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMPro_Private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\assets\\scripts\\playerinteracciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteracciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\assets\\scripts\\ammobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ammobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\assets\\scripts\\balanceoarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\balanceoarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\assets\\scripts\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\assets\\scripts\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\assets\\scripts\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,37 +62,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TMPro_Private.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMPro_Private.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMPro_Private.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMPro_Private.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMPro_Private.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAiwGwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:18:58.701Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:58:32.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInteracciones.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\PlayerInteracciones.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteracciones.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\PlayerInteracciones.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteracciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:56:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AmmoBox.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\AmmoBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AmmoBox.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\AmmoBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AmmoBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:54:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BalanceoArma.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\BalanceoArma.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BalanceoArma.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\BalanceoArma.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BalanceoArma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:39:39.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuButton.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\MenuButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuButton.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\MenuButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:51:24.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Shoot.cs",
               "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\Shoot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Shoot.cs",
               "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\Shoot.cs",
               "RelativeToolTip": "Assets\\Scripts\\Shoot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T21:56:57.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T21:56:57.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Bala.cs",
               "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\Bala.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bala.cs",
               "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\Bala.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bala.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T21:56:45.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T21:56:45.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "CameraLook.cs",
               "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\CameraLook.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraLook.cs",
@@ -92,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CameraScript.cs",
               "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\CameraScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraScript.cs",
@@ -104,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "AreaDesap.cs",
               "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\AreaDesap.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AreaDesap.cs",
@@ -116,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "TextDirigir1.cs",
               "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\3DProject\\Assets\\Scripts\\TextDirigir1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TextDirigir1.cs",
