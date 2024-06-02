@@ -16,6 +16,7 @@ public class Shoot : MonoBehaviour
         {
             if (Time.time > lastShootTime && GameManager.Instance.gunAmmo>0)
             {
+                
                 GameManager.Instance.gunAmmo--;
                 GameObject nuevaBala = Instantiate(bala, spawnPoint.position, spawnPoint.rotation);
                 nuevaBala.GetComponent<Rigidbody>().AddForce(spawnPoint.forward * fuerzaDisparo);
